@@ -1,0 +1,399 @@
+编译器类型KEIL 一键编译开始,工程总数量：   97
+当前工程:(KEIL) 1/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Applications\FreeRTOS\FatFs_Demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 2/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Applications\FreeRTOS\Kernel_Demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 3/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Applications\FreeRTOS\LVGL_Demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 4/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Applications\FreeRTOS\LwIP_Demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 5/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Applications\FreeRTOS\Modbus_Demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 6/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\ADC\demo\MDK-ARM\ADC.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 7/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\AES\demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 8/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\CANFD\ListenOnlyMode\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 9/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\CANFD\LoopBackMode_External\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 10/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\CANFD\LoopBackMode_Internal\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 11/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\CANFD\Networking\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 12/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\CANFD\TTCAN\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 13/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\CDE\demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 14/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\COMP\demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 15/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\CORDIC\demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 16/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\CRC\demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 17/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\DAC\demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 18/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\Debug\Fault_Debug\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 19/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\DMA\DMA_List\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 20/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\DMA\DMA_MemToMem\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 21/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\DMA\DMA_MemToMem_IT\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 22/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\EFUSE\EFUSE\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 23/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\EXTI\EXTI_WakeupFromStop\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 24/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\FMC_NORSRAM\demo\MDK-ARM\project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 25/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\FMC_SDRAM\demo\MDK-ARM\project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 26/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\FMC_SDRAM\SDRAM_Exec\MDK-ARM\project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 27/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\FMC_SDRAM\SDRAM_Speed_Test\MDK-ARM\project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 28/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\GPIO\GPIO\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 29/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\HASH\demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 30/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\HRNG\demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 31/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\HSUSB\Bulk_Transfer_HSUSB2_UTMI_Demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 32/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\HSUSB\Bulk_Transfer_HSUSB2_UTMI_DMA_Demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 33/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\HSUSB\CDC_ACM_HSUSB2_UTMI_Demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 34/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\HSUSB\HID_HSUSB1_UTMI_Demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 35/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\HSUSB\HID_HSUSB2_UTMI_Demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 36/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\HSUSB\HID_HSUSB2_UTMI_Stop_Wakeup_Demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 37/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\HSUSB\USB2_Host_HID_Class\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 38/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\HSUSB\USB2_Host_USB1_Device\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 39/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\HSUSB\USB2_Host_Vendor_Class\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 40/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\I2C\Master\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 41/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\I2C\Slave\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 42/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\I2S\I2S_Play\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 43/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\I2S\I2S_RecordAndPlay\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 44/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\IWDT\demo\MDK-ARM\project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 45/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\LPTIM\LPTIM_Counter\MDK-ARM\LPTIM.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 46/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\LPTIM\LPTIM_Encode\MDK-ARM\LPTIM.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 47/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\LPTIM\LPTIM_PWM\MDK-ARM\LPTIM.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 48/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\LPTIM\LPTIM_TimeoutWakeup\MDK-ARM\LPTIM.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 49/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\LPUART\LPUART_BLOCK\MDK-ARM\LPUART.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 50/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\LPUART\LPUART_DMA\MDK-ARM\LPUART.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 51/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\LPUART\LPUART_IT\MDK-ARM\LPUART.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 52/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\LPUART\LPUART_WAKEUP_IT\MDK-ARM\LPUART.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 53/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\LTDC&DMA2D\demo\MDK-ARM\project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 54/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\MDAC\demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 55/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\MPU\demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 56/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\NandFlash\demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 57/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\NorFlash\OTFDEC\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 58/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\NorFlash\ROMAPI_QSPI7_Flash\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 59/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\NorFlash\SPI_Nor_Flash\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 60/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\OSPI\OSPI_PSRAM_Exec\MDK-ARM\project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 61/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\OSPI\OSPI_PSRAM_Write_Read\MDK-ARM\project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 62/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\OSPI\PSRAM_Speed_Test\MDK-ARM\project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 63/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\Performance\Coremark\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 64/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\Performance\Interrupt_Response_Exit_Time\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 65/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\Performance\System_Performance\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 66/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\PMU\demo\MDK-ARM\project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 67/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\RCC\RCC_XTH_Failure_Detect\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 68/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\RTC\demo\MDK-ARM\project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 69/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\SM2\demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 70/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\SM3\demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 71/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\SM4\demo\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 72/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\SPI\Master\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 73/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\SPI\Slave\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 74/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\SPI\SPI7_NandFlash\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 75/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\SPI\SPI7_XIP_PSRAM\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 76/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\SPI\SPI7_XIP_ReadFlash\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 77/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\SPI\SPI8_Comm_master\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 78/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\SPI\SPI8_Comm_slave\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 79/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\SPI\SPI8_XIP_PSRAM\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 80/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\SRAM\SRAM_MarchC_Plus\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 81/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\TIMER\TIM26_BASE\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 82/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\TIMER\TIM_Base\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 83/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\TIMER\TIM_Capture\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 84/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\TIMER\TIM_CCRx_OCx\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 85/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\TIMER\TIM_DMA\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 86/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\TIMER\TIM_EXTERNAL_CLK\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 87/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\TIMER\TIM_ITR\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 88/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\TIMER\TIM_PWM\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 89/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\TKEY\CSA\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 90/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\TKEY\CSD\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 91/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\UART\UART_HyperTerminal\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 92/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\UART\UART_Printf\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 93/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\USART\USART_to_SPI\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 94/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\USART\USART_to_USART\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 95/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\WDT\demo\MDK-ARM\project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 96/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Templates\MDK-ARM\Project.uvprojx
+KEIL编译通过
+
+当前工程:(KEIL) 97/97
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Templates\MDK-GCC\Project.uvprojx
+KEIL编译错误，Error(s)：1 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+编译器类型IAR 一键编译开始,工程总数量：   2
+当前工程:(IAR) 1/2
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Projects\ACM32H5XX_CoreBoard\Examples\Performance\Coremark\EWARM\Project.ewp
+错误，没有输出信息
+当前工程:(IAR) 2/2
+开始编译工程：D:\Workspace\Git\AisinoChip\ACM32H5XX_HAL_SDK\Templates\EWARM\Project.ewp
+错误，没有输出信息
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  END!   >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.
+KEIL一键编译结束，成功次数: 96/97  失败次数: 1/97
+IAR一键编译结束，成功次数: 0/2  失败次数: 2/2

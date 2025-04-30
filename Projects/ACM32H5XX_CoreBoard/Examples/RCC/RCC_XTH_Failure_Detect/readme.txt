@@ -1,0 +1,1 @@
+Demo：使用XTH作为PLL1的输入参考时钟，将XTH的OSC_IN和OSC_OUT配置成数字功能来停振XTH，系统使用RCL检测到XTH停振后将时钟切换到RCH并产生NMI中断设置标志位，应用程序检测到标志位后使用RCH/16作为PLL1的输入参考时钟。

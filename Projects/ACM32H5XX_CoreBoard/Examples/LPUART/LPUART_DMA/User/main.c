@@ -1,0 +1,40 @@
+
+/******************************************************************************
+*@file  : main.c
+*@brief : main program
+******************************************************************************/
+
+#include "main.h" 
+#include "app.h"   
+/******************************************************************************
+*@brief : main program
+*@param : none
+*@return: none
+******************************************************************************/
+int main(void)
+{
+
+    HAL_Init();  
+    SystemClock_Config(SYSCLK_80M_SRC_XTH_12M, 1, 1, 1, 1);    
+
+    BSP_UART_Init(USART1, 115200);    
+
+
+    printfS("\r\n\r\n");
+    printfS("************************************************************\r\n\r\n");
+    printfS("system startup\r\n");
+
+    get_reset_source();
+    BSP_MCO_Init(RCC_MCO_RCH, ENABLE, 1);
+
+    printfS("HCK: %u\r\n", HAL_RCC_GetHCLKFreq());
+    printfS("PCLK1: %u\r\n", HAL_RCC_GetPCLK1Freq());
+    printfS("PCLK2: %u\r\n", HAL_RCC_GetPCLK2Freq());
+    printfS("PCLK3: %u\r\n", HAL_RCC_GetPCLK3Freq());
+    printfS("PCLK4: %u\r\n", HAL_RCC_GetPCLK4Freq());
+    printfS("\r\n");
+    printfS("************************************************************\r\n\r\n");
+	
+    APP_Test();
+
+}

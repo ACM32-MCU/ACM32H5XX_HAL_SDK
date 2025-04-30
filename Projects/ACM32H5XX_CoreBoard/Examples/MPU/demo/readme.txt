@@ -1,0 +1,7 @@
+本组Demo展示了当DCache使能后，如果要使用DMA功能，则需要MPU来设定DMA buffer为不可Cache区。
+本组Demo使能了ICache和DCache，DCache使能在MPU使能之后。
+reset_handler一开始就通过汇编语言使能了DTCM，使得DTCM对应的空间0x20000000-0x20008000可以被访问。
+DMA_IN_DTCM工程：DTCM不经过Cache即不可Cache，无论该区域是否已经被MPU配置为可Cache。因此，可以将DMA buffer（gu8_Tx1_DMA_Buffer和gu8_Tx2_DMA_Buffer）以及
+DMA链表要用到的全局变量（DMA_List_Node） 放到DTCM空间。
+DMA_IN_SRAM工程：通过MPU将0x20058000开始的32KB配置为不可Cache，这样，可以将DMA buffer（gu8_Tx1_DMA_Buffer和gu8_Tx2_DMA_Buffer）以及
+DMA链表要用到的全局变量（DMA_List_Node） 放到该空间。  

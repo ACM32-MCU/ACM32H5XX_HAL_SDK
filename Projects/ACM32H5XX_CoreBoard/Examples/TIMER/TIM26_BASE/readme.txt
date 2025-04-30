@@ -1,0 +1,1 @@
+TIM26是一个64位的定时器。Timer_Update_Test：每2S产生一次中断；Timer_ReadCnt_Test：每秒读取CNT的数值，每次增加TIM_CLOCK_FREQ大小的计数值。

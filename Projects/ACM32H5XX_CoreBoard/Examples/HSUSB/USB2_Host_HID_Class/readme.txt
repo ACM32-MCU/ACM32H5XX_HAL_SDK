@@ -1,0 +1,3 @@
+本例程使用HSUSB2作为USB Host，使用PC9控制Host对外供电。
+本例程展示的是Host和Device之间的中断传输，设定device是一个支持HID协议的设备。主机通过OUT传输向Device发送数据，通过IN传输从Device读回数据。
+本例程使用串口和PC端连接，PC端通过串口发送数据的USB主机，USB主机通过USB2和USB从机通信，并将USB从机返回的数据通过串口发送回PC端。   

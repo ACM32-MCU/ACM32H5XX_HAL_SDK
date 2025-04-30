@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\bin\armJET.dll" 
+
+"G:\server\project\Dragon\PP3\verification\ACM32H5XX_HAL_SDK\Templates\EWARM\Debug\Exe\Project.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\bin\armbat.dll" 
+
+--macro="G:\server\project\Dragon\PP3\verification\ACM32H5XX_HAL_SDK\Templates\EWARM\Flash_ACM32H5XX.mac" 
+
+--flash_loader="G:\server\project\Dragon\PP3\verification\ACM32H5XX_HAL_SDK\Templates\EWARM\FlashACM32H5XX.board" 
+
+
+
+

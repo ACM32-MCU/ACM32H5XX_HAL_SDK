@@ -1,0 +1,7 @@
+本Demo包含了TIM1-TIM25中除了基本定时器（TIM6/TIM7/TIM21/TIM22）外的其他定时器的捕获功能。
+定时器捕获功能的输入有来自于自身Channel对应的GPIO见timer_gpio_config表中所定义的，也可以来自于内部信号如XTL或MCO如Timer_Capture_Inter_Connect_Test中所展示的，
+还可以来自于其他定时器的通道如Timer_Capture_Inter_Connect_Test所展示的。
+捕获通道的配置如是否滤波，何种边沿触发，都可以通过配置函数配置。
+
+Timer_Capture_Test函数测试了所有自身Channel对应的GPIO作为输入信号源的情况。程序运行时，测试了两次下降沿的捕获值，其差值即为信号的周期。可以使用MCO的输出信号作为
+输入信号源。捕获结束后，程序会等待串口输入，要测试下一通道时，可以使用上位机通过串口发送一个字节的数据来触发下一通道的输入信号捕获。

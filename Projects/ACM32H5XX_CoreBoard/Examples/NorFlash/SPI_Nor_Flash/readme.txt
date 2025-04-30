@@ -1,0 +1,2 @@
+该demo展示了如何在SPI Flash中运行程序的情况下调用ROMAPI来擦写读SPI Flash以及修改SPI控制器的寄存器。
+注意，app.c中的代码是链接在SRAM中的，用于让SPI Flash进入Power down模式和退出Power down模式，退出Power down模式后需要等待一定的时间让SPI Flash恢复到正常模式，然后再去取SPI Flash中的指令。

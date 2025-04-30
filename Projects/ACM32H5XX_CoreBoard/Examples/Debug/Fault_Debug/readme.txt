@@ -1,0 +1,1 @@
+本Demo使能了MEMFAULT、BUSFAULT、USGFAULT。当产生这三种FAULT时，程序会进入三种FAULT的异常处理函数，并打印发生异常时的上下文寄存器。

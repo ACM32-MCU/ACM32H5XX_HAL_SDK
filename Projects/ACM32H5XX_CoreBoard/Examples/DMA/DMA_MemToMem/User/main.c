@@ -1,0 +1,52 @@
+/******************************************************************************
+*@file  : main.c
+*@brief : main program
+******************************************************************************/
+
+#include "main.h" 
+#include "app.h"   
+
+/******************************************************************************
+*@brief : main program
+*@param : none
+*@return: none
+******************************************************************************/
+int main(void)
+{
+	HAL_Init();
+    SystemClock_Config(SYSCLK_SELECT, PCLK1_DIV_SELECT, PCLK2_DIV_SELECT, PCLK3_DIV_SELECT, PCLK4_DIV_SELECT);
+    
+    HAL_DWT_Init();
+    
+    BSP_UART_Init(USART1, 115200);  
+	
+	printfS("\r\n\r\n");
+	printfS("************************************************************\r\n\r\n");
+	printfS("system startup\r\n");
+	
+	get_reset_source();
+    
+	printfS("HCLK: %u\r\n", HAL_RCC_GetHCLKFreq());
+	printfS("PCLK1: %u\r\n", HAL_RCC_GetPCLK1Freq());
+	printfS("PCLK2: %u\r\n", HAL_RCC_GetPCLK2Freq());
+	printfS("PCLK3: %u\r\n", HAL_RCC_GetPCLK3Freq());
+	printfS("PCLK4: %u\r\n", HAL_RCC_GetPCLK4Freq());
+    printfS("\r\n");
+	printfS("************************************************************\r\n\r\n");
+	
+    APP_Test();
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

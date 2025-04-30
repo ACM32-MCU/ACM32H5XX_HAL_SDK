@@ -1,0 +1,5 @@
+该Demo主要展示主从功能。从定时器通过ITRx接收主定时器的TRGO信号，主的TRGO信号可以配置为Update事件/Enable事件/Reset事件/Compare事件。
+从定时器的从模式由SMCR寄存器的SMS决定。
+slave_timer2_master_periphral：定义了从定时器TIM2的ITR0/ITR1/ITR2/ITR3对应的主定时器。
+slave_timer23_master_periphral：定义了从定时器TIM23的ITR0/ITR1/ITR2/ITR3对应的主定时器。
+...

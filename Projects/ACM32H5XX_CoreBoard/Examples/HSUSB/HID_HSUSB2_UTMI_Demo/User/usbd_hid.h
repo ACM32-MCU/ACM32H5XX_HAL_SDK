@@ -1,0 +1,155 @@
+/**
+  ******************************************************************************
+  * @file    usbd_hid.h
+  * @author  MCD Application Team
+  * @brief   Header file for the usbd_hid_core.c file.
+  ******************************************************************************
+  * @attention
+  *
+  * <h2><center>&copy; Copyright (c) 2024.
+  * All rights reserved.</center></h2>
+  *
+  *
+  ******************************************************************************
+  */
+
+/* Define to prevent recursive inclusion -------------------------------------*/
+#ifndef __USB_HID_H
+#define __USB_HID_H
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+/* Includes ------------------------------------------------------------------*/
+#include  "usbd_ioreq.h"
+
+/** @addtogroup STM32_USB_DEVICE_LIBRARY
+  * @{
+  */
+
+/** @defgroup USBD_HID
+  * @brief This file is the Header file for usbd_hid.c
+  * @{
+  */
+
+
+/** @defgroup USBD_HID_Exported_Defines
+  * @{
+  */
+#define HID_EPIN_ADDR                              0x81U
+#define HID_EPOUT_ADDR                             0x01U
+
+#ifdef HSUSB_DEVICE  
+#define HID_EPIN_SIZE                              64  
+#define HID_EPOUT_SIZE                             64 
+#else
+#define HID_EPIN_SIZE                              64  
+#define HID_EPOUT_SIZE                             64  
+#endif 
+
+#define USB_HID_CONFIG_DESC_SIZ                    41U
+#define USB_HID_DESC_SIZ                           9U
+#define HID_REPORT_DESC_SIZE                       30U
+
+#define HID_DESCRIPTOR_TYPE                        0x21U
+#define HID_REPORT_DESC                            0x22U
+
+#ifndef HID_HS_BINTERVAL
+#define HID_HS_BINTERVAL                           0x02U
+#endif /* HID_HS_BINTERVAL */
+
+#ifndef HID_FS_BINTERVAL
+#define HID_FS_BINTERVAL                           0x01U
+#endif /* HID_FS_BINTERVAL */
+
+#define HID_REQ_SET_PROTOCOL                       0x0BU
+#define HID_REQ_GET_PROTOCOL                       0x03U
+
+#define HID_REQ_SET_IDLE                           0x0AU
+#define HID_REQ_GET_IDLE                           0x02U
+
+#define HID_REQ_SET_REPORT                         0x09U
+#define HID_REQ_GET_REPORT                         0x01U 
+
+#define HID_REPORT_SIZE                            511    
+#define HID_REPORT_ID_IN                           0x01U  
+#define HID_REPORT_ID_OUT                          0x02U 
+
+#define USB_DEVICE_CLASS_HUMAN_INTERFACE           0x03 
+
+
+/**
+  * @}
+  */
+
+
+/** @defgroup USBD_CORE_Exported_TypesDefinitions
+  * @{
+  */
+typedef enum
+{
+  HID_IDLE = 0,
+  HID_BUSY,
+} HID_StateTypeDef;
+
+
+typedef struct
+{
+  uint32_t Protocol;
+  uint32_t IdleState;
+  uint32_t AltSetting;
+  HID_StateTypeDef state;
+  uint8_t  *p_RX_Buffer;     
+} USBD_HID_HandleTypeDef;
+/**
+  * @}
+  */
+
+
+
+/** @defgroup USBD_CORE_Exported_Macros
+  * @{
+  */
+
+/**
+  * @}
+  */
+
+/** @defgroup USBD_CORE_Exported_Variables
+  * @{
+  */
+
+extern USBD_ClassTypeDef USBD_HID;
+#define USBD_HID_CLASS &USBD_HID
+/**
+  * @}
+  */
+
+/** @defgroup USB_CORE_Exported_Functions
+  * @{
+  */
+uint8_t USBD_HID_SendReport(USBD_HandleTypeDef *pdev, uint8_t *report,uint16_t len);
+uint32_t USBD_HID_GetPollingInterval(USBD_HandleTypeDef *pdev);  
+uint8_t *USBD_HID_GetHSCfgDesc_ex(uint16_t *length);    
+uint8_t * USBD_HID_Get_HID_ReportDesc(void);   
+uint8_t *USBD_HID_GetFSCfgDesc_ex(uint16_t *length);  
+
+/**
+  * @}
+  */
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif  /* __USB_HID_H */
+/**
+  * @}
+  */
+
+/**
+  * @}
+  */
+
+/************************ (C) COPYRIGHT ACM32H5 *****END OF FILE****/

@@ -1,0 +1,3 @@
+该定时器Demo展示了PWM波形的输出。对应支持互补输出的定时器，还支持互补输出，死区插入，刹车功能。本Demo中每个定时器的通道对应的IO在timer_gpio_config中定义好了。
+TIM_BREAK_FEATURE_ENABLE宏定义控制是否使能刹车功能，同时刹车输入源可以来自于IO，也可以来自于系统事件：Generate_System_Break该函数可以产生一些系统事件如CPU LOCKUP， SRAM校验错误。
+该程序一个通道输出波形后，程序会等待串口输入后再切换到下一个通道。

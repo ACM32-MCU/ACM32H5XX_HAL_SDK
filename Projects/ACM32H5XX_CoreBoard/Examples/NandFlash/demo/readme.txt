@@ -1,0 +1,5 @@
+APP_FMC_NAND_Test：
+1.擦除Nand并使用非ECC模式读取擦除页512字节数据，比对是否擦除成功
+2.采用非ECC方式对NandFlash进行写读并比对结果
+3.采用ECC方式使用正确数据对NandFlash进行写读并比对结果
+3.采用ECC方式使用改错后数据对NandFlash进行写读，并与正确数据比对，验证纠错功能

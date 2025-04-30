@@ -1,0 +1,5 @@
+本Demo展示了TIM1-TIM25的定时器，通过DMA的方式来修改ARR值。
+Timer_Update_DMA_Test：在更新事件产生时，通过DMA的方式来修改ARR值。如果ARR preload使能，那么此次DMA更新的ARR要到下一次Update Event后才生效，否则，则立即生效。
+Timer_Channelx_DMA_Test: 在比较事件产生时，通过DMA的方式来修改ARR值。如果ARR preload使能，则此次更新的ARR在本周期Update Event后生效，否则，则立即生效。
+Timer_Trigger_DMA_Test：使用EGR方式产生DMA请求。如果ARR preload使能，那么此次DMA更新的ARR要到下一次Update Event后才生效，否则，则立即生效。
+Timer_COM_DMA_Test：使用EGR方式产生DMA请求。如果ARR preload使能，那么此次DMA更新的ARR要到下一次Update Event后才生效，否则，则立即生效。

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flash_board>
+    <pass>
+        <loader>$PROJ_DIR$\FlashACM32H5XX.flash</loader>
+        <range>CODE 0x8002000 0x83fffff</range>
+    </pass>
+</flash_board>

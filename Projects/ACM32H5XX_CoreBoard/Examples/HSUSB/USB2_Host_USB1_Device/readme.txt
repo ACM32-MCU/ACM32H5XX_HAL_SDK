@@ -1,0 +1,1 @@
+本例程使用HSUSB2作为USB Host，HSUSB1作USB Slave，进行简单的硬件通信测试：USB连接检测，USB复位协商，USB SOF发送和接收。

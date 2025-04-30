@@ -1,0 +1,4 @@
+本例程使用HSUSB2的UTMI接口，展示了HID Demo。运行Tool下的hid_test.bat，主机将会发送HID report，然后接收HID report，然后对比发送和
+接收的数据中除了report ID以外的数据是否完全一致。
+本例程运行在片外的SPI Flash中，程序起始地址为0x08002000,如果需要修改此地址，请修改VECT_TAB_ADDR的定义。
+本历程展示了当USB Configured态之后，当USB总线进入Suspend的状态下系统进入STOP模式以及从Suspend唤醒的处理方式。
